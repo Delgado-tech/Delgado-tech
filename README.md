@@ -7,14 +7,16 @@
 </div>
  <br>
 <div style="display: inline_block"><br>
-  <img align="center" name="html5Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="3%" />
-  <img align="center" name="css3Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="3%" />
-  <img align="center" name="jsIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="3%" />
-  <img align="center" name="csharpIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="3%"/>
-  <img align="center" name="phpIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="4%" margin="3%"/>
+    <a href="#">
+  <img align="center" name="html5Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="3%" title="HTML"/>
+  <img align="center" name="css3Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="3%" title="CSS"/>
+  <img align="center" name="jsIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="3%" title="Javascript"/>
+  <img align="center" name="csharpIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="3%" title="C#"/>
+  <img align="center" name="phpIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="4%" margin="3%" title="PHP"/>
     ●
-  <img align="center" name="mysqlIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="3%"/>
-  <img align="center" name="unityIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="3%"/> 
+  <img align="center" name="mysqlIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="3%" title="MYSQL"/>
+  <img align="center" name="unityIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="3%" title="Unity"/> 
+    </a>
 </div>
   
   ---
