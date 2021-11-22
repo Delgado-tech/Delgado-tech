@@ -1,7 +1,7 @@
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Delgado-tech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delgado-tech&layout=compact&langs_count=6&hide_border=true&custom_title=★ Linguagens no repositório&bg_color=DEG,5c5c6e,53516c,4b456a,443966,3f2d62&theme=dracula&text_color=ffffff&title_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delgado-tech&layout=compact&langs_count=6&hide_border=true&custom_title=★ Linguagens no repositório&bg_color=DEG,0d1117,171a20,1f2329,272c33,30363d&theme=dracula&text_color=9DACC1&title_color=9DACC1"/>
 </div>
  <br>
 <div style="display: inline_block"><br>
