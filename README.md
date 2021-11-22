@@ -9,6 +9,6 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/Delgado-tech/Delgado-tech/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Delgado-tech/Delgado-tech/blob/main/.github/workflows/cobrinha.yml)
  
 </div>
