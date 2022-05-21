@@ -9,6 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" name="html5Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="3%" title="HTML"/>
   <img align="center" name="css3Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="3%" title="CSS"/>
+  <img align="center" name="tsIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="3%" title="Typescript"/>
   <img align="center" name="jsIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="3%" title="Javascript"/>
   <img align="center" name="csharpIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="3%" title="C#"/>
   <img align="center" name="phpIcon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="4%" margin="3%" title="PHP"/>
