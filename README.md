@@ -7,18 +7,18 @@
 
 <div align="center">
     <!--Front-->
-    <img alt="html" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/1343afbc-a962-49ab-92d0-a8858582f850" width="35px">
-    <img alt="css" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/39a1fd31-16ee-40de-a268-2fe9fbbd6028" width="35px">
+    <img alt="html" title="html" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/1343afbc-a962-49ab-92d0-a8858582f850" width="35px">
+    <img alt="css" title="css" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/39a1fd31-16ee-40de-a268-2fe9fbbd6028" width="35px">
     <!--Back-->
-    <img alt="js" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/00a71741-30ae-49aa-8f58-ebbb2eeddeab" width="35px">
-    <img alt="ts" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/73a688b2-044a-4a57-81c1-f4d514565079" width="35px">
-    <img alt="php" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/1ad34e58-daad-4be1-b115-edb3475a9af2" width="35px">
-    <img alt="c#" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/7f395bed-dcd4-4506-b6a5-865a8cd3bdd1" width="35px">    
+    <img alt="js" title="javascript" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/00a71741-30ae-49aa-8f58-ebbb2eeddeab" width="35px">
+    <img alt="ts" title="typescript" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/73a688b2-044a-4a57-81c1-f4d514565079" width="35px">
+    <img alt="php" title="php" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/1ad34e58-daad-4be1-b115-edb3475a9af2" width="35px">
+    <img alt="c#" title="c#" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/7f395bed-dcd4-4506-b6a5-865a8cd3bdd1" width="35px">    
     <!--DataBase-->
-    <img alt="unity" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/6f7d7a16-42f4-49f1-a37d-a22387d7a211" width="35px">
-    <img alt="figma" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/4ea0be2d-6761-4374-9e11-b397e361f0f9" width="35px">
+    <img alt="unity" title="unity" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/6f7d7a16-42f4-49f1-a37d-a22387d7a211" width="35px">
+    <img alt="figma" title="figma" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/4ea0be2d-6761-4374-9e11-b397e361f0f9" width="35px">
     <!--tools-->
-    <img alt="mysql" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/54a33c1d-4635-4d97-aec9-b754efb7ab6b" width="35px">
+    <img alt="mysql" title="mysql" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/54a33c1d-4635-4d97-aec9-b754efb7ab6b" width="35px">
 </div>
 
 <br><br>
