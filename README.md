@@ -1,9 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6d8b1,50:edc484,100:c38e6a&height=150&section=header" width="100%">
 
-<div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delgado-tech&layout=compact&langs_count=6&hide_border=true&custom_title=★ Linguagens no repositório&bg_color=0d1117&theme=dracula&text_color=9DACC1&title_color=9DACC1"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delgado-tech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=DEG,0d1117,0d1117,171a20,1f2329,272c33,30363d&hide_border=true&custom_title=♦︎ Status&text_color=9DACC1&title_color=78d9f9"/>
-  
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=EDC484&center=true&vCenter=true&width=435&lines=Futuro+Desenvolvedor+FullStack;Estudando+programa%C3%A7%C3%A3o+web;Sempre+aprendendo+coisas+novas" alt="Typing SVG" /></a>
+</p>
+
+<div align="center">
+    <img height="200vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delgado-tech&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=0d1117&theme=dracula&text_color=9DACC1&title_color=edc484"/>
+    <img height="200vw" src="https://github-readme-stats.vercel.app/api?username=Delgado-tech&rank_icon=github&show_icons=true&icon_color=e6d8b1&theme=dracula&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true&custom_title=♦︎%20Status&text_color=9DACC1&title_color=edc484">
 </div>
  <br>
 <div style="display: inline_block"><br>
@@ -24,7 +27,19 @@
   <a href="https://www.linkedin.com/in/leonardo-delgado-1808891b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <div>  
-  
-  ![Snake animation](https://github.com/Delgado-tech/Delgado-tech/blob/output/github-contribution-grid-snake.svg)
+    
+<details open>
+    <summary aling="left"><h3>Top Repositórios</h3></summary>
+    <div align="center">
+        <a href="https://github.com/Delgado-tech/dnc-landing-page-challenge">
+          <img height="150vw" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=dnc-landing-page-challenge&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=0d1117&theme=dracula&text_color=9DACC1&title_color=edc484" />
+        </a>
+        <a href="https://github.com/Delgado-tech/TCC-Connection197-2020">
+          <img height="150vw" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=TCC-Connection197-2020&show_icons=true&icon_color=e6d8b1&theme=dracula&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true&custom_title=♦︎%20Status&text_color=9DACC1&title_color=edc484" />
+        </a>
+    </div>
+</details>
+    
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=150&section=footer" width="100%">
  
 </div>
