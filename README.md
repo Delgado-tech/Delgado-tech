@@ -44,15 +44,15 @@
         <a href="https://github.com/Delgado-tech/slider-js">
           <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=slider-js&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484" />
         </a>
+        <a href="https://github.com/Delgado-tech/multiply-me-game">
+          <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=multiply-me-game&show_icons=true&icon_color=e6d8b1&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&custom_title=♦︎%20Status&text_color=9DACC1&title_color=edc484" />
+        </a>
+        <br>
         <a href="https://github.com/Delgado-tech/dnc-portfolio-page-challenge">
           <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=dnc-portfolio-page-challenge&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484" />
         </a>
-        <br>
         <a href="https://github.com/Delgado-tech/dnc-landing-page-challenge">
           <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=dnc-landing-page-challenge&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484" />
-        </a>
-        <a href="https://github.com/Delgado-tech/TCC-Connection197-2020">
-          <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=TCC-Connection197-2020&show_icons=true&icon_color=e6d8b1&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&custom_title=♦︎%20Status&text_color=9DACC1&title_color=edc484" />
         </a>
     </div>
     <a href="https://github.com/Delgado-tech?tab=repositories"><img alt="Todos Repositórios" title="Todos Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Click%20Aqui%20Para%20Ver%20Todos%20Os%20Meus%20Repositórios-EDC484?style=for-the-badge&logoColor=black&logo=repo"/></a>
