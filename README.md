@@ -58,6 +58,6 @@
     <a href="https://github.com/Delgado-tech?tab=repositories"><img alt="Todos Repositórios" title="Todos Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Click%20Aqui%20Para%20Ver%20Todos%20Os%20Meus%20Repositórios-EDC484?style=for-the-badge&logoColor=black&logo=repo"/></a>
 </details>
     
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000000,50:161b2280,100:30363D9d&height=150&section=footer" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000080,50:161b2280,100:30363D9d&height=150&section=footer" width="100%">
  
 </div>
