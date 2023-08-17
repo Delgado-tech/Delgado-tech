@@ -6,12 +6,14 @@
 </p>
 
 <div align="center">
-    <!--Front-->
+    <!--Front e Back-->
     <img alt="html" title="html" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/1343afbc-a962-49ab-92d0-a8858582f850" width="35px">
     <img alt="css" title="css" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/39a1fd31-16ee-40de-a268-2fe9fbbd6028" width="35px">
-    <!--Back-->
     <img alt="js" title="javascript" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/00a71741-30ae-49aa-8f58-ebbb2eeddeab" width="35px">
     <img alt="ts" title="typescript" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/73a688b2-044a-4a57-81c1-f4d514565079" width="35px">
+    <img alt="react" title="react" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/ed2cf7b4-9da1-45eb-8d41-f4527ecece16" width="35px">
+    <img alt="sass" title="sass" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/960b968f-cd02-41ef-a1ad-c807bf2e33c7" width="35px">
+    <img alt="styledComponents" title="styledComponents" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/be1e3841-d8f3-49a1-8462-4aa1c854afe9" width="35px">
     <img alt="php" title="php" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/1ad34e58-daad-4be1-b115-edb3475a9af2" width="35px">
     <img alt="c#" title="c#" src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/7f395bed-dcd4-4506-b6a5-865a8cd3bdd1" width="35px">    
     <!--DataBase-->
