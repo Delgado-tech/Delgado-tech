@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://github.com/Delgado-tech/Delgado-tech/assets/60985347/3ed63b89-70ab-4571-8e2f-c70b4cdb72d2" width="300px"> <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=EDC484&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Estudando+desenvolvimento%C3%A7%C3%A3o+web;Sempre+aprendendo+coisas+novas" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=EDC484&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Estudando+programação%C3%A7%C3%A3o+web;Sempre+aprendendo+coisas+novas" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
