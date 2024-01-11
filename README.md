@@ -26,7 +26,7 @@
 <br><br>
 
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Delgado-tech&rank_icon=github&show_icons=true&icon_color=e6d8b1&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&custom_title=♦︎%20Status&text_color=9DACC1&title_color=edc484">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Delgado-tech&rank_icon=github&show_icons=true&icon_color=e6d8b1&theme=dracula&include_all_commits=false&count_private=true&bg_color=00000000&hide_border=true&custom_title=♦︎%20Status&text_color=9DACC1&title_color=edc484">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delgado-tech&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484"/>
 </div>
  <br>
