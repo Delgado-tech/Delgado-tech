@@ -43,16 +43,20 @@
     <summary aling="left"><h3>📓 Top Repositórios</h3></summary>
     <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
     <div align="left">
+        <a href="https://github.com/Delgado-tech/dncommerce">
+          <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=dncommerce&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484" />
+        </a>
         <a href="https://github.com/Delgado-tech/slider-js">
           <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=slider-js&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484" />
         </a>
+<br>
         <a href="https://github.com/Delgado-tech/multiply-me-game">
           <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=multiply-me-game&show_icons=true&icon_color=e6d8b1&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&custom_title=♦︎%20Status&text_color=9DACC1&title_color=edc484" />
         </a>
-        <br>
         <a href="https://github.com/Delgado-tech/dnc-portfolio-page-challenge">
           <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=dnc-task-list-challenge&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484" />
         </a>
+<br>
         <a href="https://github.com/Delgado-tech/dnc-landing-page-challenge">
           <img width="40%" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Delgado-tech&repo=github-finder&show_icons=true&icon_color=e6d8b1&layout=compact&langs_count=6&hide_border=true&custom_title=★%20Linguagens%20no%20repositório&bg_color=00000000&theme=dracula&text_color=9DACC1&title_color=edc484" />
         </a>
